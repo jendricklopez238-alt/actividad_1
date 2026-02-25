@@ -7,6 +7,7 @@ trabajo de algoritmo
     <td width="40%">
       <!-- Ajusta el width para el tamaño de tu foto -->
       <img src="ima.jpeg" alt="Juan David Romero" width="470px" style="border-radius: 10px;">
+      <img src="ima.jpeg" alt="Jendrick lopez" width="470px" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
